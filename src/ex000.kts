@@ -1,1 +1,3 @@
-main
+fun main (){
+    print("Hello Worls!")
+}
